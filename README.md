@@ -58,10 +58,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-52&layout=compact&theme=radical&hide=html,css)
 
-## 📊 GitHub Stats
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-52&show_icons=true&theme=radical)
+
+
 
 ## 📈 Contributions Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-52&theme=react-dark)
@@ -74,6 +75,13 @@
 
 ---
 
+## 📊 Languages I Use
+- 🟠 Java – practicing arrays, loops, recursion
+- 🔵 SQL – writing queries and learning joins
+- 🟢 CMD/Batch – scripting fun effects
+- 🛡️ Cybersecurity – labs on TryHackMe
+
+---
 ## 📫 Connect With Me
 
 <p align="left">
